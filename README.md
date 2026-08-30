@@ -1,4 +1,6 @@
-# THIS SITE IS UNDER CONSTRUCTION, PLEASE HOLD
+# RobiWanKenobi's Homepage
+
+This site is under construction.
 
 # RobiWanKenobi's Projects
 
@@ -16,3 +18,4 @@ RobiWanKenobi is a ROM Hacker located in the Mountain West who happens to also b
 
 He is also a Tech Member at [Sonic Retro](https://github.com/sonicretro).
 
+Besides programming, he rides motorcycles, is a drummer, and studying Nuclear Engineering.
