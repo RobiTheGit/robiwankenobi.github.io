@@ -2,7 +2,11 @@
 
 # RobiWanKenobi's Projects
 
-* Sonic 1 Level Creator
+Sonic 1 Level Creator
+
+* A ROM Hack of Sonic 1 that allows you to create your own levels.
+
+* Currently only has Green Hill Zone
 
 ![image](S1LC.png)
 
