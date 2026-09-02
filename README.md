@@ -1,6 +1,4 @@
-# RobiWanKenobi's Homepage
-
-This site is under construction.
+**This site is under construction.**
 
 # RobiWanKenobi's Projects
 
