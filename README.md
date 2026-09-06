@@ -10,7 +10,7 @@ Sonic 1 Level Creator
 
 ![image](S1LC.png)
 
-* Sonic: Project Revenge
+Sonic: Project Revenge
 
 ![image](SPR.png)
 
